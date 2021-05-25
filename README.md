@@ -1,10 +1,10 @@
-# PyGeth
+# PyGvap
 
 [![Build Status](https://travis-ci.org/ethereum/py-geth.png)](https://travis-ci.org/ethereum/py-geth)
 [![PyPi version](https://img.shields.io/pypi/v/py-geth.svg)](https://pypi.python.org/pypi/py-geth)
 
 
-Python wrapper around running `geth` as a subprocess
+Python wrapper around running `gvap` as a subprocess
 
 
 ## System Dependency
